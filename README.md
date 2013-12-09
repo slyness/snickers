@@ -1,4 +1,0 @@
-snickers
-========
-
-test rails app
