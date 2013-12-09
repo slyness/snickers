@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Snickers::Application.config.secret_key_base = 'dfc27d6088b13335a87b36b46c9bf586fdc81b383ad9e53ee655931c7be7a50537585e15cd9464d3105b9c6578cfad661286019342799c563dc8ecf171a7a975'
+Snickers::Application.config.secret_key_base = '625d5d885fd6e9046d008ce48cb8fa3a993451d1317bd3de0a2058fec1c3a3e4afdb835aa751ab847f2d5dfe21d7f5ed9e7fa98c0237203f6816ae768b531a48'
